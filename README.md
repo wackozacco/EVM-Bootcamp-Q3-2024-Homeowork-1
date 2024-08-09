@@ -6,7 +6,7 @@ Assignment:
 * Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed
 * Submit your weekend project by filling the form provided in Discord
 
-Code reference from Lesson 4:
+Code reference from Lesson 4 for HelloWorld.sol:
 
     // SPDX-License-Identifier: GPL-3.0
     pragma solidity >=0.7.0 <0.9.0;
