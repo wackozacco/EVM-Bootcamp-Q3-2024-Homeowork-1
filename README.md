@@ -1,4 +1,4 @@
-# EVM-Bootcamp-Q3-2024-Homeowork-1
+# EVM-Bootcamp-Q3-2024-Homework-1
 
 Assignment: 
 
